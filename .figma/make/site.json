@@ -1,0 +1,10 @@
+{
+  "description": "Connects GEC Thrissur students to academic projects and partners by matching skills and facilitating private collaboration for successful teamwork.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
